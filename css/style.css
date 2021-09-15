@@ -897,7 +897,6 @@ form input[type=reset] {
   .image13 {
       grid-column-start: 3;
       grid-column-end: 5;
-      grid-row-start: 1;
       padding-top: 2em;
       padding-bottom: 1em;
   }
