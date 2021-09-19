@@ -709,6 +709,15 @@ form input[type=reset] {
   color: rgb(90, 79, 95);
 }
 
+.piece h4 {
+  font-family: "nobel", sans-serif;
+  font-size: 1.3125em;
+  /* 21px / 16px = 1.3125em */
+  line-height: 1.3em;
+  color: rgb(90, 79, 95);
+}
+
+
 .skillsp {
   font-size: 1em;
 }
