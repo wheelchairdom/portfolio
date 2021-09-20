@@ -906,7 +906,6 @@ form input[type=reset] {
       grid-column-start: 1;
       grid-column-end: 3;
       padding-top: 2em;
-      padding-bottom: 2em;
       padding-left: 0em;
       padding-right: 0em;
   }
@@ -923,7 +922,6 @@ form input[type=reset] {
       grid-column-start: 1;
       grid-column-end: 3;
       padding-top: 2em;
-      padding-bottom: 2em;
       padding-left: 0em;
       padding-right: 0em;
   }
@@ -931,7 +929,6 @@ form input[type=reset] {
   .image55 {
       grid-column-start: 1;
       grid-column-end: 3;
-      padding-top: 2em;
       padding-bottom: 2em;
       padding-left: 0em;
       padding-right: 0em;
