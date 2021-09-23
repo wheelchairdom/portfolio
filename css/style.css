@@ -633,7 +633,7 @@ form input[type=reset] {
   display: none; }
   @media (min-width: 768px) {
     .mixcontainer .mix {
-      width: 24%; } }
+      width: 32.333%; } }
   .mixcontainer .mix img {
     display: block;
     max-width: 100%;
@@ -677,7 +677,7 @@ form input[type=reset] {
   .hero img {
     display: block;
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 100%;
     /* position: absolute;
     left: 50%;
     top: 50%;
